@@ -1,0 +1,22 @@
+.btn {
+  border: 10px solid white;
+  border-radius: 50px
+  color: black;
+  padding: 20px 50px;
+  font-size: 37px;
+  font-color: black;
+  cursor: pointer;
+  background-color: #f5d142
+}
+
+.About:hover {background-color: lightgray;}
+
+.Learn {background-color: #f5d142;}
+.Learn:hover {background: lightgray;}
+
+.JamIt {background-color: #f5d142;}
+.JamIt:hover {background: lightgray;}
+
+.Listen {background-color: #f5d142;}
+.Listen:hover {background: lightgray;}
+}
